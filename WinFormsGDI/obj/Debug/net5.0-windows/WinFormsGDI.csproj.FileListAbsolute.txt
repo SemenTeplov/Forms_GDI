@@ -1,0 +1,40 @@
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\bin\Debug\net5.0-windows\WinFormsGDI.exe
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\bin\Debug\net5.0-windows\WinFormsGDI.deps.json
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\bin\Debug\net5.0-windows\WinFormsGDI.runtimeconfig.json
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\bin\Debug\net5.0-windows\WinFormsGDI.runtimeconfig.dev.json
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\bin\Debug\net5.0-windows\WinFormsGDI.dll
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\bin\Debug\net5.0-windows\WinFormsGDI.pdb
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.AssemblyInfo.cs
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.dll
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\refint\WinFormsGDI.dll
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.pdb
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.genruntimeconfig.cache
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\ref\WinFormsGDI.dll
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.Form2.resources
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.Properties.Resources.resources
+C:\Users\Админ\source\repos\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.Form1.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\bin\Debug\net5.0-windows\WinFormsGDI.exe
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\bin\Debug\net5.0-windows\WinFormsGDI.deps.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\bin\Debug\net5.0-windows\WinFormsGDI.runtimeconfig.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\bin\Debug\net5.0-windows\WinFormsGDI.runtimeconfig.dev.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\bin\Debug\net5.0-windows\WinFormsGDI.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\bin\Debug\net5.0-windows\WinFormsGDI.pdb
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.Form1.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.Form2.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.Properties.Resources.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\refint\WinFormsGDI.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.pdb
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\WinFormsGDI.genruntimeconfig.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз GDI\WinFormsGDI\WinFormsGDI\obj\Debug\net5.0-windows\ref\WinFormsGDI.dll
